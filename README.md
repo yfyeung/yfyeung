@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yfyeung.yfyeung" /> &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/cs-baoyan?logo=github" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/k2-fsa?logo=github" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/yfyeung?logo=github" /> &nbsp;&nbsp;&nbsp;
 </div>
 
 <div align="center">
